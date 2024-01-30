@@ -9,3 +9,4 @@ Check out the live demo:
 
 Check out some of my other projects:
 -- [Portfolio](https://portfolio.kershdigital.com)
+![nike-react-tailwind-main](https://github.com/theElephants/nike-demo-react-tailwind/assets/50935468/ae6c40ef-0234-45e8-8d54-3802e1611e3d)

@@ -7,6 +7,8 @@ This is a demo created for educational purposes only and is in no way representi
 Check out the live demo:
 -- [Nike Store Demo](https://github.com/theElephants)
 
+and
+
 Check out some of my other projects:
 -- [Portfolio](https://portfolio.kershdigital.com)
 
